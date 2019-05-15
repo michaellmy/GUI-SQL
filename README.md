@@ -1,6 +1,6 @@
 A coursework done in my first year.
 
-A GUI is built to display patient information. Patient information can be represented using JSON and CSV files.
+A GUI is built using Java Swing to display patient information. Patient data can be represented using JSON and CSV files.
 This data can then be uploaded to an SQL database.
 This coursework was done using PostgreSQL (pgAdmin4).
 
