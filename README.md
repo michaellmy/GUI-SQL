@@ -1,5 +1,7 @@
 A coursework done in my first year.
-A GUI is built to display patient information, and this data can be uploaded to an SQL database
+
+A GUI is built to display patient information. Patient information can be represented using JSON and CSV files.
+This data can then be uploaded to an SQL database.
 This coursework was done using PostgreSQL (pgAdmin4).
 
 Run the 'Main' class. After creating a database and loading a CSV file in the GUI, click the 'Load SQL Database' button and enter your jdb Driver Connection URL, and your PostGreSQL username and password into the input field.
