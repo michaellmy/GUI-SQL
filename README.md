@@ -1,4 +1,4 @@
-A coursework done in my first year.
+A coursework done in my first year in UCL.
 
 A GUI is built using Java Swing to display patient information. Patient data can be represented using JSON and CSV files.
 This data can then be uploaded to an SQL database.
