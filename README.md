@@ -1,6 +1,8 @@
-Question 6 was done using PostgreSQL (pgAdmin4).
+A coursework done in my first year.
+A GUI is built to display patient information, and this data can be uploaded to an SQL database
+This coursework was done using PostgreSQL (pgAdmin4).
 
-First, run the 'Main' class. After creating a database and loading a CSV file in the GUI, click the 'Load SQL Database' button and enter your jdb Driver Connection URL, and your PostGreSQL username and password into the input field.
+Run the 'Main' class. After creating a database and loading a CSV file in the GUI, click the 'Load SQL Database' button and enter your jdb Driver Connection URL, and your PostGreSQL username and password into the input field.
 
 An example URL is <jdbc:postgresql://localhost:5432/patient_data>, where
 '5432' should be the port name used,
