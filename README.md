@@ -1,15 +1,7 @@
 A coursework done in my first year in UCL.
 
-A GUI is built using Java Swing to display patient information. Patient data can be represented using JSON and CSV files.
+A GUI is built using Java Swing to display patient information. 
+Patient data is represented using JSON or CSV files.
 This data can then be uploaded to an SQL database.
-This coursework was done using PostgreSQL (pgAdmin4).
 
-Run the 'Main' class. After creating a database and loading a CSV file in the GUI, click the 'Load SQL Database' button and enter your jdb Driver Connection URL, and your PostGreSQL username and password into the input field.
-
-An example URL is <jdbc:postgresql://localhost:5432/patient_data>, where
-'5432' should be the port name used,
-'patient_data' should be the name of the database.
-
-If all goes well, a table should be added in the SQL database, and the terminal
-should print out "Connection Established". After reloading the page, the new
-table can be seen under the data base.
+An example jdbc URL format is <jdbc:postgresql://localhost:5432/patient_data>.
